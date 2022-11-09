@@ -1,0 +1,44 @@
+[
+	{
+		"id": "product1",
+		"name": "Буррито",
+		"description": "Тесто,томатный соут, бекон, сыр.",
+		"price": "1150",
+		"image": "img/imgs/palki-skalki/burrito.jpg"
+	},
+	{
+		"id": "product2",
+		"name": "Бургер",
+		"description": "Булка,томатный соут, котлета, сыр.",
+		"price": "795",
+		"image": "img/imgs/palki-skalki/cheeseburger.jpg"
+	},
+	{
+		"id": "product3",
+		"name": "Три пиццы",
+		"description": "Пицца1, пицца2, пицца3",
+		"price": "999",
+		"image": "img/imgs/palki-skalki/combo.jpg"
+	},
+	{
+		"id": "product4",
+		"name": "Пицца дритта",
+		"description": "Тесто,томатный соут, бекон, сыр, сыр голубой.",
+		"price": "420",
+		"image": "img/imgs/palki-skalki/rome.jpg"
+	},
+	{
+		"id": "product5",
+		"name": "Пицца мясная",
+		"description": "Тесто,томатный соут, бекон, сыр",
+		"price": "530",
+		"image": "img/imgs/palki-skalki/fusion.jpg"
+	},
+	{
+		"id": "product6",
+		"name": "Удон",
+		"description": "Тесто,томатный соут, бекон",
+		"price": "600",
+		"image": "img/imgs/palki-skalki/udon.jpg"
+	}
+]

@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
+	<title>Document</title>
+</head>
+
+<body>
+	<div class="wrapper">
+		<header class="header">
+			<div class="header__container">
+				<a class="header__logo animate__animated animate__backInDown " href=" #"><img
+						src="img/header/header__logo.svg" alt="logo"></a>
+				<div class="header__search">
+					<div class="header__icon-home"><img src="img/header/header__icon-home.svg" alt="icon"></div>
+					<input type="text" class="header__input-search" placeholder="Адрес доставки">
+				</div>
+				<div class="header__buttons">
+					<div class="header__button animate__animated animate__backInDown">
+						<div><img src="img/header/header__icon-user.svg" alt="icon"></div>
+						<div>Войти</div>
+					</div>
+					<div class="header__button header__button_fon-white animate__animated animate__backInDown">
+						<div><img src="img/header/header__icon-basket.svg" alt="icon"></div>
+						<div>Корзина</div>
+					</div>
+				</div>
+
+		</header>
+
+		<main class="main">
+			<section class="main__promo promo-main swiper animate__animated animate__backInDown">
+				<div class="promo-main__blockblock swiper-wrapper">
+					<div class="promo-main__container swiper-slide ">
+						<div class="promo-main__fon "><img src="img/header/header__promo.png" alt="img"></div>
+						<div class="promo-main__title">Онлайн-сервис <br>доставки еды на дом</div>
+						<div class="promo-main__text">Блюда из любимого ресторана привезет курьер в перчатках, маске и с
+							антисептиком</div>
+					</div>
+					<div class="promo-main__container  swiper-slide">
+						<div class="promo-main__fon"><img src="img/imgs/promo/pizza.png" alt="img"></div>
+						<div class="promo-main__title promo-main__container_color">Скидка 20% на всю еду <br> по
+							промокоду LOVE.js </div>
+						<div class="promo-main__text promo-main__container_color">Блюдо привезут вместе с двумя
+							подарочными книгами по фронтенду</div>
+					</div>
+					<div class="promo-main__container promo-main__container_color swiper-slide">
+						<div class="promo-main__fon"><img src="img/imgs/promo/kebab.png" alt="img"></div>
+						<div class="promo-main__title promo-main__container_color">Шашлыки майские <br> со скилкой 35%
+						</div>
+						<div class="promo-main__text promo-main__container_color">Закажите шашлыки до 10 мая и получите
+							скидку по промокоду</div>
+					</div>
+					<div class="promo-main__container swiper-slide">
+						<div class="promo-main__fon"><img src="img/imgs/promo/vegetables.png" alt="img"></div>
+						<div class="promo-main__title">Сеты со скидкой до 30% <br> в ресторанах </div>
+						<div class="promo-main__text">Скидки на сеты до 30 мая по промокоду DADADA</div>
+					</div>
+
+				</div>
+			</section>
+			<div class="main__container">
+				<div class="main__header"></div>
+				<div class="main__items"></div>
+			</div>
+			<section class="main__products products-main">
+
+				<div class="products-main__container">
+
+					<div class="products-main__header">
+						<div class="products-main__title">Рестораны</div>
+						<div class="products-main__search search-products-main">
+							<div class="search-products-main__icon"><img src="img/main/main_icon-search.svg" alt="icon">
+							</div>
+							<input class="search-products-main__input" placeholder="Поиск блюд и ресторанов"></input>
+						</div>
+					</div>
+
+					<div class="products-main__items">
+
+
+
+					</div>
+				</div>
+			</section>
+		</main>
+
+		<footer class="footer">
+			<div class="footer__container">
+				<div class="footer__left-block">
+					<a class="footer__logo wow animate__bounceIn"><img src="img/footer/logo2.png" alt="logo"></a>
+					<nav class="footer__mebu">
+						<ul class="footer__list">
+							<a href="#">
+								<li class="footer__item">Ресторанам </li>
+							</a>
+							<a href="#">
+								<li class="footer__item">Курьерам</li>
+							</a>
+							<a href="#">
+								<li class="footer__item">Пресс-центр</li>
+							</a>
+							<a href="#">
+								<li class="footer__item">Контакты</li>
+							</a>
+						</ul>
+					</nav>
+				</div>
+				<div class="footer__right-block">
+					<div class="footer__networks">
+						<div class="footer__network wow animate__bounceIn"><img src="img/footer/ins.svg" alt="icon">
+						</div>
+						<div class="footer__network wow animate__bounceIn"><img src="img/footer/fac.png" alt="icon">
+						</div>
+						<div class="footer__network wow animate__bounceIn"><img src="img/footer/vk.png" alt="icon">
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+		</footer>
+		<div hidden class="modal-window">
+			<div class="modal-window__fon fon-modal"></div>
+			<div class="modal-window__modal-block animate__animated animate__backInDown">
+				<div class="modal-window__header">
+					<div class="modal-window__title">Корзина</div>
+					<div class="modal-window__cancel"><img src="img/header/cancel.svg" alt="cancel"></div>
+				</div>
+				<div class="modal-window__body">
+
+					<div class="modal-window__product">
+						<div class="modal-window__name">Ролл угорь стандарт</div>
+						<div class="modal-window__right-block">
+							<div class="modal-window__price">250 ₽</div>
+							<div class="modal-window__amount">
+								<div class="modal-window__minus">-</div>
+								<div class="modal-window__num">1</div>
+								<div class="modal-window__plus">+</div>
+							</div>
+						</div>
+					</div>
+					<div class="modal-window__product">
+						<div class="modal-window__name">Ролл угорь стандарт</div>
+						<div class="modal-window__right-block">
+							<div class="modal-window__price">250 ₽</div>
+							<div class="modal-window__amount">
+								<div class="modal-window__minus">-</div>
+								<div class="modal-window__num">1</div>
+								<div class="modal-window__plus">+</div>
+							</div>
+						</div>
+					</div>
+					<div class="modal-window__product">
+						<div class="modal-window__name">Ролл угорь стандарт</div>
+						<div class="modal-window__right-block">
+							<div class="modal-window__price">250 ₽</div>
+							<div class="modal-window__amount">
+								<div class="modal-window__minus">-</div>
+								<div class="modal-window__num">1</div>
+								<div class="modal-window__plus">+</div>
+							</div>
+						</div>
+					</div>
+					<div class="modal-window__product">
+						<div class="modal-window__name">Ролл угорь стандарт</div>
+						<div class="modal-window__right-block">
+							<div class="modal-window__price">250 ₽</div>
+							<div class="modal-window__amount">
+								<div class="modal-window__minus">-</div>
+								<div class="modal-window__num">1</div>
+								<div class="modal-window__plus">+</div>
+							</div>
+						</div>
+					</div>
+					<div class="modal-window__product">
+						<div class="modal-window__name">Ролл угорь стандарт</div>
+						<div class="modal-window__right-block">
+							<div class="modal-window__price">250 ₽</div>
+							<div class="modal-window__amount">
+								<div class="modal-window__minus">-</div>
+								<div class="modal-window__num">1</div>
+								<div class="modal-window__plus">+</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="modal-window__footer">
+					<div class="modal-window__whole-price">1250 ₽</div>
+					<div class="modal-window__buttons">
+						<button class="modal-window__button modal-window__button_color">Оформить заказ</button>
+						<button class="modal-window__button" id="modal-window__two">Отмена</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="authorization">
+			<div class="authorization__fon fon-modal"></div>
+			<div class="authorization__block animate__animated animate__backInDown">
+				<div class="authorization__header">
+
+					<div class="authorization__title">Вход в аккаунт</div>
+					<div hidden class="authorization__error-null">Поле пустое!!!</div>
+				</div>
+				<form action="#" method="get" enctype="multipart/form-data" class="authorization__form"
+					name="authorizationForm" onsubmit="return false;">
+					<div class="authorization__body">
+						<input type="text" class="authorization__input-login" name="login">
+						<input type="password" class="authorization__input-password" name="password">
+					</div>
+					<div class="authorization__buttons">
+						<button type="submit" class="authorization__button-entrance">Войти</button>
+						<button type="reset" class="authorization__button-cancel">Отмена</button>
+					</div>
+				</form>
+			</div>
+		</div>
+
+	</div>
+	<script src="js/script.js" type="module"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+
+</body>
+
+</html>

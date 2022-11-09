@@ -1,0 +1,44 @@
+[
+	{
+		"id": "product1",
+		"name": "Пицца класика",
+		"description": "Тесто,томатный соут, бекон, сыр.",
+		"price": "1850",
+		"image": "img/imgs/pizza-plus/pizza-classic.jpg"
+	},
+	{
+		"id": "product2",
+		"name": "Пицца",
+		"description": "Тесто,томатный соут, бекон, сыр.",
+		"price": "895",
+		"image": "img/imgs/pizza-plus/pizza-girls.jpg"
+	},
+	{
+		"id": "product3",
+		"name": "Пицца плюс",
+		"description": "Тесто,томатный соут, бекон.",
+		"price": "680",
+		"image": "img/imgs/pizza-plus/pizza-plus.jpg"
+	},
+	{
+		"id": "product4",
+		"name": "Пицца олеоле",
+		"description": "Тесто,томатный соут, бекон, сыр, сыр голубой.",
+		"price": "820",
+		"image": "img/imgs/pizza-plus/pizza-oleole.jpg"
+	},
+	{
+		"id": "product5",
+		"name": "Гавайская",
+		"description": "Тесто,томатный соут, бекон, сыр",
+		"price": "230",
+		"image": "img/imgs/pizza-plus/pizza-hawaiian.jpg"
+	},
+	{
+		"id": "product6",
+		"name": "Пицца мясная",
+		"description": "Тесто,томатный соут, бекон, сыр",
+		"price": "600",
+		"image": "img/imgs/pizza-plus/pizza-vesuvius.jpg"
+	}
+]

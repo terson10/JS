@@ -1,0 +1,56 @@
+[
+	{
+		"id": "productsMainItem1",
+		"name": "Пицца плюс",
+		"stars": "4.7",
+		"price": "700",
+		"category": "Пицца и суши",
+		"image": "img/imgs/pizza-plus/preview.jpg",
+		"products": "db/pizza-plus.json"
+	},
+	{
+		"id": "productsMainItem2",
+		"name": "Тануки",
+		"stars": "4.0",
+		"price": "900",
+		"category": "Пицца и суши",
+		"image": "img/imgs/tanuki/preview.jpg",
+		"products": "db/tanyki.json"
+	},
+	{
+		"id": "productsMainItem3",
+		"name": "Food Band",
+		"stars": "4.6",
+		"price": "1850",
+		"category": "Пицца и суши",
+		"image": "img/imgs/food-band/preview.jpg",
+		"products": "db/foodband.json"
+	},
+	{
+		"id": "productsMainItem4",
+		"name": "Гуси-лебеди",
+		"stars": "3.9",
+		"price": "980",
+		"category": "Пицца и суши",
+		"image": "img/imgs/gusi-lebedi/preview.jpg",
+		"products": "db/gusi.json"
+	},
+	{
+		"id": "productsMainItem5",
+		"name": "Палки-скалки",
+		"stars": "4.1",
+		"price": "930",
+		"category": "Пицца и суши",
+		"image": "img/imgs/palki-skalki/preview.jpg",
+		"products": "db/palki.json"
+	},
+	{
+		"id": "productsMainItem6",
+		"name": "PizzaBurger",
+		"stars": "5.0",
+		"price": "890",
+		"category": "Пицца и суши",
+		"image": "img/imgs/pizza-burger/preview.jpg",
+		"products": "db/pizzaburger.json"
+	}
+]

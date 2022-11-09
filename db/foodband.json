@@ -1,0 +1,44 @@
+[
+	{
+		"id": "product1",
+		"name": "Маргарита",
+		"description": "Тесто,томатный соут, бекон, сыр.",
+		"price": "1550",
+		"image": "img/imgs/food-band/margarita.jpg"
+	},
+	{
+		"id": "product2",
+		"name": "Мясная",
+		"description": "Тесто,томатный соут, бекон, сыр.",
+		"price": "605",
+		"image": "img/imgs/food-band/meet.jpg"
+	},
+	{
+		"id": "product3",
+		"name": "Пицца",
+		"description": "Тесто,томатный соут, бекон.",
+		"price": "380",
+		"image": "img/imgs/food-band/norwegian.jpg"
+	},
+	{
+		"id": "product4",
+		"name": "Четыре сыра",
+		"description": "Тесто,томатный соут, бекон, сыр, сыр голубой.",
+		"price": "420",
+		"image": "img/imgs/food-band/seven-cheeses.jpg"
+	},
+	{
+		"id": "product5",
+		"name": "Том Ям",
+		"description": "Тесто,томатный соут, бекон, сыр",
+		"price": "330",
+		"image": "img/imgs/food-band/tom-yam.jpg"
+	},
+	{
+		"id": "product6",
+		"name": "Паперони",
+		"description": "Тесто,томатный соут, бекон, сыр",
+		"price": "800",
+		"image": "img/imgs/food-band/pepperoni.jpg"
+	}
+]

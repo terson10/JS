@@ -1,0 +1,44 @@
+[
+	{
+		"id": "product1",
+		"name": "Пицца двойная",
+		"description": "Тесто,томатный соут, бекон, сыр.",
+		"price": "850",
+		"image": "img/imgs/pizza-burger/pizza-caesar.jpg"
+	},
+	{
+		"id": "product2",
+		"name": "Пицца шеф",
+		"description": "Тесто,томатный соут, бекон, сыр.",
+		"price": "595",
+		"image": "img/imgs/pizza-burger/pizza-chef.jpg"
+	},
+	{
+		"id": "product3",
+		"name": "Пицца дача",
+		"description": "Тесто,томатный соут, бекон.",
+		"price": "680",
+		"image": "img/imgs/pizza-burger/pizza-dacha.jpg"
+	},
+	{
+		"id": "product4",
+		"name": "Пицца мясная",
+		"description": "Тесто,томатный соут, бекон, сыр, сыр голубой.",
+		"price": "320",
+		"image": "img/imgs/pizza-burger/pizza-meat.jpg"
+	},
+	{
+		"id": "product5",
+		"name": "Паперони",
+		"description": "Тесто,томатный соут, бекон, сыр",
+		"price": "230",
+		"image": "img/imgs/pizza-burger/pizza-pepperoni.jpg"
+	},
+	{
+		"id": "product6",
+		"name": "Сырная пицца",
+		"description": "Тесто,томатный соут, бекон, сыр",
+		"price": "600",
+		"image": "img/imgs/pizza-burger/pizza-village.jpg"
+	}
+]

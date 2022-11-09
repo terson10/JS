@@ -1,0 +1,44 @@
+[
+	{
+		"id": "product1",
+		"name": "Ролл угорь стандарт",
+		"description": "Рис, угорь, соус унаги, кунжут, водоросли нори.",
+		"price": "250",
+		"image": "img/imgs/tanuki/azhi.jpg"
+	},
+	{
+		"id": "product2",
+		"name": "Калифорния лосось стандарт",
+		"description": "Рис, лосось, авокадо, огурец, майонез, икра масаго, водоросли нори.",
+		"price": "395",
+		"image": "img/imgs/tanuki/black.jpg"
+	},
+	{
+		"id": "product3",
+		"name": "Окинава стандарт",
+		"description": "Рис, креветка отварная, сыр сливочный, лосось, огурец свежий.",
+		"price": "380",
+		"image": "img/imgs/tanuki/fresh.jpg"
+	},
+	{
+		"id": "product4",
+		"name": "Цезарь маки хl",
+		"description": "Рис, креветка отварная, сыр сливочный, лосось, огурец свежий.",
+		"price": "400",
+		"image": "img/imgs/tanuki/nisuaz.jpg"
+	},
+	{
+		"id": "product5",
+		"name": "Ясай маки стандарт 185 г",
+		"description": "Рис, помидор свежий, перец болгарский, авокадо, огурец, айсберг",
+		"price": "500",
+		"image": "img/imgs/tanuki/smoke.jpg"
+	},
+	{
+		"id": "product6",
+		"name": "Ролл с креветкой стандарт",
+		"description": "Рис, водоросли нори, креветки отварные, сыр сливочный, огурцы",
+		"price": "300",
+		"image": "img/imgs/tanuki/tanuki.jpg"
+	}
+]

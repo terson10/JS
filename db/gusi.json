@@ -1,0 +1,44 @@
+[
+	{
+		"id": "product1",
+		"name": "Грибное пюпе",
+		"description": "Пюре, грибы, сливочный соус",
+		"price": "950",
+		"image": "img/imgs/gusi-lebedi/calf-sauce.jpg"
+	},
+	{
+		"id": "product2",
+		"name": "Шашлык",
+		"description": "Курица, соус, овощи",
+		"price": "395",
+		"image": "img/imgs/gusi-lebedi/chick.jpg"
+	},
+	{
+		"id": "product3",
+		"name": "Куриный суп",
+		"description": "Бульен, курица,яйца.",
+		"price": "569",
+		"image": "img/imgs/gusi-lebedi/chicken-soup.jpg"
+	},
+	{
+		"id": "product4",
+		"name": "Cуп с яйцами",
+		"description": "Бульен, курица,яйца.",
+		"price": "420",
+		"image": "img/imgs/gusi-lebedi/ear.jpg"
+	},
+	{
+		"id": "product5",
+		"name": "Пельмени",
+		"description": "Тесто, мясо.",
+		"price": "230",
+		"image": "img/imgs/gusi-lebedi/dumplings.jpg"
+	},
+	{
+		"id": "product6",
+		"name": "Плов",
+		"description": "Рис, овощи, мясо ",
+		"price": "600",
+		"image": "img/imgs/gusi-lebedi/plov.jpg"
+	}
+]
